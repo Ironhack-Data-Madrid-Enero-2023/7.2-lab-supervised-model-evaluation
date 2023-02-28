@@ -1,0 +1,41 @@
+2023-02-28 15:13:18,650 [92183] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-02-28 15:13:18,650 [92183] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-02-28 15:13:18,650 [92183] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-02-28 15:13:18,652 [92183] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-02-28 15:13:18,653 [92183] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-02-28 15:13:18,653 [92183] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-02-28 15:14:37,378 [92183] INFO     sklearn.datasets._california_housing:131: [JupyterRequire] Downloading Cal. housing from https://ndownloader.figshare.com/files/5976036 to /home/usuario/scikit_learn_data
+2023-02-28 15:14:41,885 [92183] INFO     numexpr.utils:160: [JupyterRequire] NumExpr defaulting to 4 threads.
+2023-02-28 16:16:51,670 [92183] WARNING  py.warnings:109: [JupyterRequire] /home/usuario/anaconda3/lib/python3.9/site-packages/sklearn/linear_model/_logistic.py:814: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2023-02-28 16:17:23,895 [92183] WARNING  py.warnings:109: [JupyterRequire] /home/usuario/anaconda3/lib/python3.9/site-packages/sklearn/linear_model/_logistic.py:814: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2023-02-28 16:17:30,608 [92183] WARNING  py.warnings:109: [JupyterRequire] /home/usuario/anaconda3/lib/python3.9/site-packages/sklearn/linear_model/_logistic.py:814: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2023-02-28 16:55:47,783 [92183] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-02-28 16:55:47,783 [92183] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-02-28 16:55:47,783 [92183] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-02-28 16:55:47,802 [92183] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-02-28 16:55:47,803 [92183] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-02-28 16:55:47,803 [92183] DEBUG    root:97: [JupyterRequire] Registering comm targets.
